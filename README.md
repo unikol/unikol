@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**unikol/unikol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mykola 👋
 
-Here are some ideas to get you started:
+Junior DevOps Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying DevOps through:
+
+- EPAM DevOps Program
+- PortaOne Linux Training
+
+Tech stack:
+
+Linux
+Bash
+Git
+Docker
+CI/CD
+Networking
+SQL
+
+GitHub projects show my hands-on labs
+and DevOps learning journey.
