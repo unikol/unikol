@@ -33,11 +33,11 @@ I am currently improving my DevOps skills through structured programs and practi
 
 ## Tech Stack
 
-**Core:** Linux, Bash, Git, Docker, CI/CD, Networking, Ansible, Terraform
-**CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
-**Containers:** Docker, Docker Compose, Minikube, Kubernetes basics
-**Cloud & IaC:** AWS basics, Azure basics, GCP basics, Terraform
-**Networking:** IP addressing, routing, NAT, iptables, tcpdump, nmap
+**Core:** Linux, Bash, Git, Docker, CI/CD, Networking, Ansible, Terraform  
+**CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins  
+**Containers:** Docker, Docker Compose, Minikube, Kubernetes basics  
+**Cloud & IaC:** AWS basics, Azure basics, GCP basics, Terraform  
+**Networking:** IP addressing, routing, NAT, iptables, tcpdump, nmap  
 **Monitoring & Quality:** Zabbix basics, SonarQube / SonarCloud basics
 
 ---
