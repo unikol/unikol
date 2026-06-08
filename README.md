@@ -21,13 +21,38 @@ My main approach is learning DevOps through real hands-on practice: configuring 
 
 ---
 
-## Currently Studying
+## Completed Training & Certifications
 
-I am currently improving my DevOps skills through structured programs and practical labs:
+I have completed several structured DevOps and infrastructure-focused training programs and continue improving my skills through hands-on labs and portfolio projects.
 
-* EPAM DevOps Fundamentals Program
-* PortaOne Linux and Networking Training
-* SoftServe DevOps II: CI/CD, Containers and Cloud Fundamentals
+* **EPAM Campus — DevOps Beginner Self-Paced Program**
+  Completed in May 2026.
+  Credential ID: `AAAAB4TR`
+
+* **SoftServe Academy — DevOps II: CI/CD, Containers and Cloud Fundamentals**
+  Completed in June 2026.
+  Credential: `Series JG № 30350/2026`
+  Verification: https://career.softserveinc.com/en-us/certification/verification
+
+* **EPAM DevOps Fundamentals / Practical DevOps Labs**
+  Hands-on practice with Linux, Git, Docker, CI/CD pipelines, Kubernetes basics, Jenkins, GitHub Actions, GitLab CI/CD, cloud infrastructure and technical documentation.
+
+* **PortaOne Linux and Networking Training**
+  Linux administration, networking fundamentals, routing, NAT, iptables, troubleshooting and command-line practice.
+
+---
+
+## Current Practical Focus
+
+I am currently focused on strengthening my practical DevOps portfolio through:
+
+* CI/CD pipelines with GitHub Actions, GitLab CI/CD and Jenkins
+* Docker-based application packaging and deployment
+* Kubernetes and Minikube deployment practice
+* Linux administration, Bash scripting and troubleshooting
+* Terraform, Ansible and Infrastructure as Code
+* Cloud practice with AWS, Azure and GCP
+* Networking, monitoring and technical documentation
 
 ---
 
