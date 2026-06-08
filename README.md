@@ -1,8 +1,4 @@
-## Hi there 👋
-
-Hi, I'm Mykola 👋
-
-<h1 align="center">Hi, I'm Mykola Stepanov</h1>
+<h1 align="center">Hi, I'm Mykola</h1>
 
 <h3 align="center">DevOps Engineer | Linux | CI/CD | Docker | Cloud | Infrastructure as Code</h3>
 
